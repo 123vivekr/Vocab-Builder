@@ -1,0 +1,10 @@
+hello greeting
+car transport
+college institution
+cat animal
+window object
+aluminium metal
+acid chemical
+pencil lead
+house building
+ampere electricity
